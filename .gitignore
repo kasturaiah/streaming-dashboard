@@ -1,0 +1,13 @@
+﻿# Node
+node_modules/
+.next/
+dist/
+
+# Environment files
+.env
+.env.local
+.env.* 
+
+# OS / editor
+.DS_Store
+.vscode/
